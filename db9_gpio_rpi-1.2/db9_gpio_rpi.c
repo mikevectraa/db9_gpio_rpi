@@ -80,6 +80,8 @@ static u32 db9_bcm_model;
 #define HAVE_TIMER_SETUP
 #endif
 
+//pins changed to avoid conflicts with "raspisound"
+
 enum pad_gpios {
 	PORT1_PIN1_GPIO = 4,
 	PORT1_PIN2_GPIO = 7,
@@ -90,7 +92,7 @@ enum pad_gpios {
 	PORT1_PIN7_GPIO = 14,
 	PORT2_PIN1_GPIO = 15,
 	PORT2_PIN2_GPIO = 17,
-	PORT2_PIN3_GPIO = 18,
+	PORT2_PIN3_GPIO = 27,
 	PORT2_PIN4_GPIO = 22,
 	PORT2_PIN5_GPIO = 23,
 	PORT2_PIN6_GPIO = 24,

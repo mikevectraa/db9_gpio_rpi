@@ -1,5 +1,7 @@
 Audio+ Mod
+
 The GPIO Pins are changed to use 2 identical dsub9 adapters for player 1 and player 2 on the 25 pins on audio+ from raspiaudio.com
+
 The Pinout is on an extra PDF
 
 

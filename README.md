@@ -1,3 +1,9 @@
+Audio+ Mod
+The GPIO Pins are changed to use 2 identical dsub9 adapters for player 1 and player 2 on the 25 pins on audio+ from raspiaudio.com
+The Pinout is on an extra PDF
+
+
+
 db9_gpio_rpi
 ==============
 db9_gpio_rpi is a driver (Linux kernel module) for DB9 joysticks and gamepads connected to Raspberry Pi's GPIO. See [wikipage](https://github.com/RetroPie/RetroPie-Setup/wiki/GPIO-Modules#db9_gpio_rpi) for further details.
